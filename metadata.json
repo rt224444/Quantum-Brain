@@ -1,0 +1,8 @@
+{
+  "name": "FocusQuest",
+  "description": "Gamified task manager with project breakdowns, Pomodoro timer, Google Sheets reporting, and Google/Outlook Calendar sync to help users conquer procrastination.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
